@@ -1,0 +1,116 @@
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 100px;
+  text-shadow: 0 0 10px #0099ff;
+
+  font-style: regular;
+}
+
+body {
+  background-image: url("forest.jpg");
+  background-color: white;
+}
+
+.container {
+  width: 1646px;
+  height: 400px;
+  background-color: transparent;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
+
+.rad {
+  width: 1645px;
+  height: 105px;
+  background-color: transaprent;
+  border-style: solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-shadow: 0 0 0px #0000ff;
+
+}
+
+.item {
+  background-color: green;
+  border-style: solid;
+  display: flex;
+  width: 300px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+
+}
+
+.button {
+    background-color: green;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+}
+
+.button1:hover {
+    background-color: green;
+    color: white;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+}
+
+.button2:hover {
+    background-color: green;
+    color: white;
+}
+
+.button3 {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+}
+
+.button3:hover {
+    background-color: green;
+    color: white;
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+}
+
+.button4:hover {
+  background-color: green;
+  color: white;
+}
+
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+}
+
+.button5:hover {
+    background-color: green;
+    color: white;
+}

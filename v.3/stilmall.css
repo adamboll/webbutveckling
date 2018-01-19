@@ -1,0 +1,65 @@
+h1 {
+  font-family: 'Times New Roman', cursive;
+  color: rgb(255, 255, 255, 0.8);
+  font-size: 100px;
+  text-shadow: 0 0 10px #0099ff;
+
+  font-style: regular;
+}
+
+body {
+  background-image: url("aurora.jpg");
+  background-color: white;
+}
+
+.button {
+    background-color: rgb(255, 255, 255, 0.9);
+    color: black;
+    border: 2px solid black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+
+}
+
+.button1:hover {
+    background-color: rgb(0, 255, 153, 0.5);
+    color: white;
+}
+
+.button2:hover {
+    background-color: rgb(102, 255, 204, 0.5);
+    color: white;
+}
+
+.button3:hover {
+    background-color: rgb(102, 255, 255, 0.5);
+    color: white;
+}
+
+.button4:hover {
+  background-color: rgb(102, 204, 255, 0.5);
+  color: white;
+}
+
+.button5:hover {
+    background-color: rgb(153, 204, 255, 0.5);
+    color: white;
+}
+
+.button6:hover {
+  background-color: rgb(153, 153, 255, 0.5);
+  color: white;
+}
+
+.button7:hover {
+    background-color: rgb(153, 102, 255, 0.5);
+    color: white;
+}
